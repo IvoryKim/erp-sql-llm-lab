@@ -24,3 +24,9 @@
 - .items() 키와 값을 쌍으로 꺼내서 반복
 - MSSQL 테이블과 다르게 PYTHON은 한 리스트 안에 다른 키 갯수의 딕셔너리가 들어갈 수 있음
 - print시 키가 없는 딕셔너리가 있을 경우 KeyError이 날 수 있기 때문에 p.get("stock") 처럼 get을 이용해야함 그럼 None으로 출력됨
+
+## 2026-09-30 (Day 4)
+- if 조건문과 while 반복문
+- 대부분 mssql과 비슷함
+- elseif 가 아니고 elif임
+- 대소문자 구분 주의
